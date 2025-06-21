@@ -1,2 +1,2 @@
 # GSF
-A step to build green software
+A step to build a green software
