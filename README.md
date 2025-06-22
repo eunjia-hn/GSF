@@ -45,7 +45,7 @@ Collect real-time and historical grid data from:
 | India        | POSOCO                | API        | `posoco_generation_mix.csv` |
 | Sri Lanka    | PUCSL                 | Excel File | `pucsl_generation.csv` |
 | India/Asia   | Electricity Maps API  | REST API   | `electricitymaps_IN.csv` |
-| US (optional)| WattTime API          | REST API   | `watttime_data.csv` |
+| US           | WattTime API          | REST API   | `watttime_data.csv` |
 | UK           | UK Carbon Intensity   | Open API   | `uk_carbon_intensity.csv` |
 
 ---
